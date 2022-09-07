@@ -1,0 +1,3 @@
+[submodule "sw-diverse-redundancy"]
+	path = sw-diverse-redundancy
+	url = git@gitlab-internal.bsc.es:mfernand/sw-diverse-redundancy.git
